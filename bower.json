@@ -1,0 +1,25 @@
+{
+  "name": "static-website-boilerplate",
+  "version": "1.0.0",
+  "authors": [
+    "Aaron W. Johnson PhD"
+  ],
+  "description": "Development boilerplate for static webpages",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "boilerplate"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass-official": "~3.2.0"
+  }
+}
